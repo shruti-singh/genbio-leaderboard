@@ -4,8 +4,8 @@
 
 ### Installation
 ```bash
-git clone git@gitlab.genbio.ai:development/modelgenerator/agent/leaderboard.git
-cd leaderboard
+git clone https://github.com/cnellington/genbio-leaderboard.git
+cd genbio-leaderboard
 pip install .
 ```
 
